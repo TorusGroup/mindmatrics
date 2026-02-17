@@ -1,0 +1,6 @@
+
+{
+  "name": "MindMetrics v7.0",
+  "description": "Ecossistema de Inteligência Comportamental e Psicometria de Alta Densidade com IA Generativa.",
+  "requestFramePermissions": ["camera"]
+}
